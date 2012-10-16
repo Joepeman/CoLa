@@ -1,8 +1,7 @@
 $(function(){
     
         // TODO: Implement a proper garbage collector for elements that are too small to be visible
-        // Hallo Gijs! Welcome! Hallo joep
-        // This is another test
+        // This is a comment from Joep
         
 	// This application depends on the canvas element
 	if(!('getContext' in document.createElement('canvas'))){
